@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Cloudinary (2.2.2):
+    - Alamofire (~> 4.6.0)
+
+DEPENDENCIES:
+  - Cloudinary (~> 2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Cloudinary: 5dff38fd3a8d3277ef05ced910a6bc567738dddb
+
+PODFILE CHECKSUM: 660901a75e9115bdab3c62f8ff532968ec3f4dc0
+
+COCOAPODS: 1.4.0
